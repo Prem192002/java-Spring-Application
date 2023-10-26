@@ -6,7 +6,7 @@
 
     <bean id="student" class="com.example.springapp.Student">
         <property name="studentId" value="1"/>
-        <property name="firstName" value="John"/>
-        <property name="lastName" value="Doe"/>
+        <property name="firstName" value="Rahul"/>
+        <property name="lastName" value="Sharma"/>
     </bean>
 </beans>

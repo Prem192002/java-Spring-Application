@@ -10,8 +10,8 @@ public class SpringappApplicationTests {
     public Student student() {
         Student student = new Student();
         student.setStudentId(1);
-        student.setFirstName("John");
-        student.setLastName("Doe");
+        student.setFirstName("Rahul");
+        student.setLastName("Sharma");
         return student;
     }
 }
